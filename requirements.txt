@@ -1,2 +1,6 @@
 pandas
 pyarrow
+dask[complete]
+matplotlib
+seaborn
+scikit-learn
